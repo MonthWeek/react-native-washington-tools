@@ -1,2 +1,2 @@
-export WashingtonApp from './WashingtonApp';
-export WashingtonServer from './WashingtonServer';
+import WashingtonApp from './WashingtonApp';
+export default WashingtonApp;
